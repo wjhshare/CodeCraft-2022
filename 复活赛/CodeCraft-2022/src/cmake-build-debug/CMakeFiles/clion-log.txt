@@ -1,0 +1,4 @@
+/home/qunlou/clion-2019.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/qunlou/huawei/rematch/second/SDK_C++/CodeCraft-2022/src
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/qunlou/huawei/rematch/second/SDK_C++/CodeCraft-2022/src/cmake-build-debug

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qunlou/huawei/SDK/保存所有版本/SDK_C++(判题器极限)/SDK_C++/CodeCraft-2022/src/CodeCraft-2022.cpp
+iostream
+-
+fstream
+-
+string
+-
+map
+-
+vector
+-
+algorithm
+-
+queue
+-
+time.h
+-
+unordered_set
+-
+math.h
+-
+unordered_map
+-
+climits
+-
+

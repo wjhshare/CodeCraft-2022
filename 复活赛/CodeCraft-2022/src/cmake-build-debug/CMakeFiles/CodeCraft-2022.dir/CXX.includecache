@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qunlou/huawei/rematch/second/SDK_C++/CodeCraft-2022/src/CodeCraft-2022.cpp
+iostream
+-
+fstream
+-
+string
+-
+map
+-
+vector
+-
+algorithm
+-
+queue
+-
+time.h
+-
+unordered_set
+-
+math.h
+-
+unordered_map
+-
+float.h
+-
+
